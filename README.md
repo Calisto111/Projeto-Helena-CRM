@@ -24,6 +24,8 @@ Beleza! Agora é só esperar que vamos mandar um código no seu e-mail e também
 
 # Passo 4: Acessando a plataforma
 Após a inserção do código, você será redirecionado para nossa página princial, agora você está pronto para explorar todas as incríveis funcionalidades da plataforma Helena ⚡🟣
+![Tela Inicial](Imagens/Imagem4.jpeg)
+*Tela inicial, após o login*
 
 Não hesite em entrar em contato conosco se precisar de ajuda ou tiver alguma dúvida. Estamos aqui para ajudar!
 
