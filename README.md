@@ -12,10 +12,15 @@ E aí! Quando você clicar no link, vai direto pra página de cadastro. Lá, é 
 ![Tela de Cadastro](Imagens/Imagem1.PNG)
  *Imagem da tela de cadastro*
 
+
 # Passo 3: Confirmação de dados
 Beleza! Agora é só esperar que vamos mandar um código no seu e-mail e também no seu WhatsApp. Esse código tem só seis números e é super secreto, ele será usado para acessar sua conta, então não saia compartilhando por aí, hein? Depois, é só digitar o código nos campos certinhos, como na imagem abaixo:
 ![Tela de Cadastro](Imagens/Imagem2.jpeg)
 *Imagem da inserção de dados*
+
+ Caso opte pela opção do email, ele irá ser enviado pelo endereço de email contato@helena.run e virá da seguinte maneira :
+![Tela de Cadastro](Imagens/Imagem3.jpeg)
+*Imagem do recebimento de código via email*
 
 # Passo 4: Acessando a plataforma
 Após a inserção do código, você será redirecionado para nossa página princial, agora você está pronto para explorar todas as incríveis funcionalidades da plataforma Helena ⚡🟣
